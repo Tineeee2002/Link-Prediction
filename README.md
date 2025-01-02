@@ -10,6 +10,6 @@ This notebook was adapted from [network-science course](https://github.com/netsp
 
 ---
 
-Enjoy exploring PageRank with this implementation!
+Enjoy exploring LinkPredition with this implementation!
 
 
